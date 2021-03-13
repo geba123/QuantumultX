@@ -1,1 +1,1 @@
-div.ics-container {display: none !important;}
+ics-container {display: none !important;}
