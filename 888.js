@@ -1,4 +1,4 @@
-div.ics-container {display: none !important;}
+ics-container {display: none !important;}
 div#aaaDiv2 {width: 0% !important;}
 div#aaaDiv {width: 0% !important;}
 iframe#zzzif {display: none !important;}
