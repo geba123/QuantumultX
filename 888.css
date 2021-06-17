@@ -1,3 +1,4 @@
-domain-suffix, amazon.com, proxy
-domain-suffix, media-amazon.com, proxy
-domain-keyword, amazon, proxy
+host-suffix, amazon.com, proxy
+host-suffix, media-amazon.com, proxy
+host-keyword, amazon, proxy
+host, fls-na.amazon.com, proxy
