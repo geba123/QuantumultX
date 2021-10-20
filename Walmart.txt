@@ -1,0 +1,3 @@
+host-suffix, wal.co
+host-suffix, walmart.com
+host, i5.walmartimages.com
