@@ -1,3 +1,0 @@
-host-suffix, wal.co, proxy
-host-suffix, walmart.com, proxy
-host, i5.walmartimages.com, proxy
