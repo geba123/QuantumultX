@@ -7,3 +7,4 @@ host-suffix, bbystatic.com, proxy
 host, in.appcenter.ms, proxy
 host, m.csqtrk.net, proxy
 host, dpm.demdex.net, proxy
+host, logx.optimizely.com, proxy
