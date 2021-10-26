@@ -1,8 +1,0 @@
-host-suffix, bestbuy.com, proxy
-host-suffix, smartystreets.com, proxy
-host-suffix, marketingcloudapis.com, proxy
-
-host, in.appcenter.ms, proxy
-host, pisces.bbystatic.com, proxy
-host, m.csqtrk.net, proxy
-host, dpm.demdex.net, proxy
