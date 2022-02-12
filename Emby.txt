@@ -82,10 +82,8 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-#🐻貓熊影業Emby账号创建成功！🐼
-#★ Cloudflare: 
-DOMAIN,embyclub.org
-#★ Azure HongKong:
+#🐻貓熊影業Emby
+DOMAIN,embyclub.nl
+DOMAIN,jp.embyclub.nl
 DOMAIN,20.189.99.35:58080
-#★ Azure Singapore:
-DOMAIN,azsgp.embyclub.org
+DOMAIN,azsgp.embyclub.nl
