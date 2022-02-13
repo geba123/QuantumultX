@@ -87,3 +87,5 @@ DOMAIN,embyclub.nl
 DOMAIN,jp.embyclub.nl
 DOMAIN,20.189.99.35:58080
 DOMAIN,azsgp.embyclub.nl
+
+DOMAIN-SUFFIX,emby.media
