@@ -86,6 +86,7 @@ DOMAIN,sg.jmsooo.com
 DOMAIN,embyclub.nl
 DOMAIN,jp.embyclub.nl
 DOMAIN,20.189.99.35:58080
+DOMAIN,142.54.186.202:8096
 DOMAIN,azsgp.embyclub.nl
 
 #Misty Emby
