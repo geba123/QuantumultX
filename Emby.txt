@@ -85,7 +85,7 @@ DOMAIN,jp.embyclub.nl
 DOMAIN,20.189.99.35:58080
 DOMAIN,azsgp.embyclub.nl
 
-#Misty Emby
+#MistyEmby
 #德国主线路
 DOMAIN,aaa.ax
 #圣何塞中转隧道
