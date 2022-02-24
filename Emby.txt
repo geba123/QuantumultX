@@ -85,8 +85,8 @@ DOMAIN,sg.jmsooo.com
 #🐻貓熊影業Emby
 DOMAIN,embyclub.nl
 DOMAIN,jp.embyclub.nl
-DOMAIN,20.189.99.35:58080
-DOMAIN,142.54.186.202:8096
+IP-CIDR,20.189.99.35/24
+IP-CIDR,142.54.186.202/24
 DOMAIN,azsgp.embyclub.nl
 
 #Misty Emby
