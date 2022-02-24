@@ -93,6 +93,6 @@ DOMAIN,us.aaa.ax
 #🇯🇵东京中转隧道
 DOMAIN,jp.aaa.ax
 #🇯🇵东京中转隧道 (Azure)
-DOMAIN,jp-az.aaa.ax:8096
+DOMAIN,jp-az.aaa.ax
 #🇸🇬新加坡中转隧道 (Azure)
-DOMAIN,sg.aaa.ax:8096
+DOMAIN,sg.aaa.ax
