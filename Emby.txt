@@ -3,6 +3,7 @@ DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
+IP-CIDR,134.195.101.38/24
 
 # > 流媒体emby-flowercloud服务器
 DOMAIN,emby.flowercloud.yt
