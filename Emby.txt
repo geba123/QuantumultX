@@ -77,10 +77,11 @@ DOMAIN,servers.xeton.dev
 DOMAIN,embyserver.ga
 
 # > 流媒体卷毛鼠服务器
-DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
-DOMAIN,hk.jmsooo.com
-DOMAIN,sg.jmsooo.com
+DOMAIN,sg1.jmsooo.com
+DOMAIN,sg2.jmsooo.com
+DOMAIN,usa1.jmsooo.com
+DOMAIN,usa2.jmsooo.com
 
 #🐻貓熊影業Emby
 DOMAIN,embyclub.nl
