@@ -104,4 +104,4 @@ DOMAIN,sg.aaa.ax
 
 #MisakaF
 DOMAIN,emby.misakaf.xyz
-
+IP-CIDR,46.38.239.238/24
