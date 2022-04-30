@@ -101,3 +101,7 @@ DOMAIN,jp.aaa.ax
 DOMAIN,jp-az.aaa.ax
 #新加坡中转隧道 (Azure)
 DOMAIN,sg.aaa.ax
+
+#MisakaF
+DOMAIN,emby.misakaf.xyz
+
