@@ -103,5 +103,6 @@ DOMAIN,jp-az.aaa.ax
 DOMAIN,sg.aaa.ax
 
 #MisakaF
-DOMAIN,emby.misakaf.xyz
+DOMAIN-KEYWORD,misakaf
+
 IP-CIDR,46.38.239.238/24
