@@ -38,13 +38,7 @@ DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life 
 
 # > 流媒体emby-jmsooo体验服
-DOMAIN,agahk1.jmsooo.com
-DOMAIN,agasg1.jmsooo.com
-DOMAIN,agajp1.jmsooo.com
-DOMAIN,aws.jmsooo.com
-DOMAIN,ntt1.jmsooo.com
-DOMAIN,hinet.jmsooo.com
-DOMAIN,cf1.jmsooo.com
+DOMAIN-KEYWORD,jmsooo
 
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
@@ -75,13 +69,6 @@ DOMAIN,servers.xeton.dev
 
 # > 流媒体WaveCloud服务器
 DOMAIN,embyserver.ga
-
-# > 流媒体卷毛鼠服务器
-DOMAIN,cf.jmsooo.com
-DOMAIN,sg1.jmsooo.com
-DOMAIN,sg2.jmsooo.com
-DOMAIN,usa1.jmsooo.com
-DOMAIN,usa2.jmsooo.com
 
 #🐻貓熊影業Emby
 DOMAIN,embyclub.nl
