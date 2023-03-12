@@ -18,3 +18,6 @@ IP-CIDR,111.202.1.248/30
 
 #星云
 DOMAIN-SUFFIX,direct.nebula-emby.com
+
+#莫高雷
+IP-CIDR,202.61.255.248/30
