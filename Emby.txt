@@ -22,5 +22,16 @@ DOMAIN-SUFFIX,direct.nebula-emby.com
 #莫高雷
 IP-CIDR,202.61.255.248/30
 
+#剧狗
+DOMAIN,ju.dog
+
 # JMS
 DOMAIN-KEYWORD,jmsooo
+
+#星光
+DOMAIN,free.emby.eu.org
+
+#纸片人
+DOMAIN,embyplus.org
+
+
