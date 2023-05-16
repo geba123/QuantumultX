@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,direct.nebula-emby.com
 
 #莫高雷
 IP-CIDR,202.61.255.248/30
+
+# JMS
+DOMAIN-KEYWORD,jmsooo
