@@ -65,5 +65,10 @@
 "type":8,
 "name":"pornfind",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/pf.json"
+},
+{
+"type":1,
+"name":"暴风资源",
+"api":"https://bfzyapi.com/api.php/provide/vod"
 }
 ]}
