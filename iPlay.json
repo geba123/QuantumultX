@@ -38,11 +38,6 @@
 },
 {
 "type":8,
-"name":"欧乐影院",
-"api":"https://https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
-},
-{
-"type":8,
 "name":"193电影资源",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/193dy.json"
 },
@@ -70,5 +65,10 @@
 "type":1,
 "name":"暴风资源",
 "api":"https://bfzyapi.com/api.php/provide/vod"
+},
+{
+"type":8,
+"name":"cokemv",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cokemv.json"
 }
 ]}
